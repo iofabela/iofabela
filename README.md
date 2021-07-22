@@ -1,5 +1,5 @@
-### Hello World ! 🌎
-<h4>I'm Israel Fabela <img align="right" src="character_model.png" width="200px"> <br>Mechatronic Engineer at <a href="ingenieria.unam.mx">Faculty Engineering, UNAM</a> </h4>
+### Hello World ! 🌎 <img align="right" src="character_model.png" width="200px">
+<h4>I'm Israel Fabela <br>Mechatronic Engineer at <a href="ingenieria.unam.mx">Faculty Engineering, UNAM</a> </h4>
 
 I'm mexican who is passionate about technology and development. And also,
 
