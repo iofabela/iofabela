@@ -4,7 +4,7 @@
 I'm mexican who is passionate about technology and development. And also,
 
 - ✍ You can find my projects here [portfolio]
-- 👨‍💻 I’m currently learning IA and ML
+- 💻 I’m currently learning IA and ML
 - 💬 Ask me about anything
 
 ### Talk with me:
