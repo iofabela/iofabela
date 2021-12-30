@@ -27,5 +27,5 @@ I'm mexican who is passionate about technology and development. And also,
 
 <!-- [![Linkedin: iofabela](https://img.shields.io/badge/-iofabela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iofabela/)][linkedin] -->
 
-[portfolio]: https://iofabela.com
+[portfolio]: https://iofabela.com/#portfolio
 [linkedin]: https://linkedin.com/in/iofabela
